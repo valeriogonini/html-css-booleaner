@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.background{
+    background-color: rgb(48, 128, 239);
+    height: 100px;
+    background-image: url(./img/pattern.png);
+    background-size: 300px;
+
+}
+.margine{
+    width: 1000px;
+    margin: auto;
+  
+}
+.logoboolean{
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 250px;
+}
+h1{
+    font-size: 45px;
+    margin-top: 10px;
+    font-weight: 900;
+}
+.fontsize{
+    font-size: 20px;
+    
+}
+.fototim{
+    margin-top: 20px;
+}
+.lorem1{
+    margin-top: 50px;
+}
+.messimportante{
+    background-color: yellow;
+    
+}
+.lista{
+    margin-top: 50px;
+
+}
+
+table{
+    margin-top: 50px;
+    
+    border-spacing: 0;
+    
+    
+    
+}
+thead{
+    background-color: blue;
+    color: white;
+    
+}
+.coloreceleste{
+    background-color: rgb(6, 168, 193);
+    
+}
+th{
+    width: 3%;
+}
+footer{
+    font-size: 30px;
+    margin-top: 50px;
+    font-weight: 600;
+}
+.fotomonitor{
+    background-image: url(./img/monitor.jpg);
+    color: white;
+   width: 312px;
+   height: 208px;
+   margin-top: 10px;
+}
+.fotograph{
+    background-image: url(./img/graph.jpg);
+    color: white;
+   width: 311px;
+   height: 207px;
+   margin-top: 10px;
+}
